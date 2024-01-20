@@ -1,0 +1,3 @@
+$w.onReady(function () {
+	$w('#name').value = "xX;
+})
